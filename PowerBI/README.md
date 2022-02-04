@@ -8,3 +8,5 @@ About the Dataset: The dataset used for this project is obtained from Kaggle [he
 
 <sub><sup>This PowerBI report is part of a personal project (A part of this report has also been submitted as a project for LUMS Data Analytics Certificate).</sup></sub> 
 
+Sneakpeak:
+![image](https://user-images.githubusercontent.com/90529279/152548577-21f9e52b-45f5-4b70-8ac0-879902e9e06b.png)
